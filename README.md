@@ -1,5 +1,5 @@
 # Udacity Machine Learning Nanodegree Project Portfolio
-project work from my Udacity Machine Learning Nanodegree.
+Project work from my Udacity Machine Learning Nanodegree.
 
 ## Projects Completed (Skills Developed)
 1. Boston Housing Project (Model Evaluation and Validation)
