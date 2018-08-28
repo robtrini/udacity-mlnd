@@ -11,7 +11,7 @@ Project work from my Udacity Machine Learning Nanodegree.
 3. Dog Breed Classifier (Deep Learning)
 4. [Creating Customer Segments (Unsupervised Learning)](https://github.com/robtrini/udacity-mlnd/tree/master/mlnd-customer_segments)
 5. [Train a Quadcopter to Fly (Reinforcement Learning)](https://github.com/robtrini/udacity-mlnd/tree/master/mlnd-quadcopter)
-6. [Kickstarter Project Success/Failure Classifier (Capstone Project)](https://github.com/robtrini/udacity-mlnd/tree/master/mlnd-capstone)
+6. [Kickstarter Project Success Classifier (Capstone Project)](https://github.com/robtrini/udacity-mlnd/tree/master/mlnd-capstone)
 
 ## Technologies Used
 * numpy
