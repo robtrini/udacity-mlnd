@@ -1,5 +1,6 @@
 # Udacity Machine Learning Nanodegree Project Portfolio
 Project work from my Udacity Machine Learning Nanodegree.
+
 **Start Date**: January 14th, 2018
 **End Date**: July 28th, 2018
 
