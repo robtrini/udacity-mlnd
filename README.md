@@ -14,6 +14,7 @@ Project work from my Udacity Machine Learning Nanodegree.
 6. [Kickstarter Project Success Classifier (Capstone Project)](https://github.com/robtrini/udacity-mlnd/tree/master/mlnd-capstone)
 
 ## Technologies Used
+* SQL
 * numpy
 * pandas
 * scikit-learn
